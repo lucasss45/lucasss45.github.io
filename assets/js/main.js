@@ -547,7 +547,7 @@ document.querySelectorAll('.project').forEach(proj => {
   let holdTimer  = 0;
   let morphT     = 0;
 
-  const HOLD   = 360;  // ~6s
+  const HOLD   = 270;  // ~4.5s
   const MORPH  = 180;  // ~3s — suave
 
   // Garante loop único mesmo se requestAnimationFrame disparar extras
