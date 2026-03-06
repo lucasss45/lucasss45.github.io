@@ -92,7 +92,7 @@ if (themeBtn) {
 const STRINGS = {
   pt: {
     h1: 'Do banco de dados<br>à tela — <span class="grad">com precisão.</span>',
-    bio: 'Desenvolvo produtos digitais completos — APIs funcionais, interfaces que as pessoas gostam de usar e código que não vira problema no futuro. Tenho experiência real em produção e gosto de ir fundo nos problemas.',
+    bio: 'Desenvolvo sistemas completos com responsabilidade sobre cada camada. Tenho experiência real em desenvolvimento, mas o que mais me define é a busca por entender e estudar soluções — cada projeto me torna um engenheiro e um desenvolvedor melhor.',
     phrases: [
       'construo do banco de dados à tela',
       'código limpo não é opcional',
